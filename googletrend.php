@@ -15,6 +15,8 @@ $country_name=$_GET['name'];
 
 //Setting
 $keyword_suggest='no'; // yes or no
+
+//Only work if keyword_suggest = yes.
 $google_suggest='yes'; // yes or no
 $yahoo_suggest='no'; // yes or no
 $bing_suggest='no'; // yes or no
